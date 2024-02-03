@@ -1,2 +1,8 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+
+## Link: 
+*https://youtu.be/EDj-Xo8AlSU?si=TFXIQEi78AoQC-_z* 
+
+## Thoughts:
+I think it shows a general day of a sde which is my future dream job. The job satisfaction that the work gives(after a problem is solved) is more valuable the money.
+
